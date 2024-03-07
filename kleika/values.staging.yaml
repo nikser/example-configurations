@@ -1,0 +1,5 @@
+mode: staging
+app:
+  some:
+    param: 123
+

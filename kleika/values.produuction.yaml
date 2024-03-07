@@ -1,0 +1,5 @@
+mode: prod
+app:
+  some:
+    param: 321
+
